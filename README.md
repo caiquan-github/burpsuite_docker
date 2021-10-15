@@ -4,9 +4,9 @@ You can boot multiple Burp Suite in the Docker environment
 
 Burp Suite 2020.11.3
 
-Burp Suite config addres is :
+Burp Suite(docker iamge)  config addres is :
    
-   /usr/local/docker/burp/space/files/default.json
+   /usr/local/docker/burp/space/files/default.json   //You can replace this image in this image to configure Burpsuite
 
 
 # GUI

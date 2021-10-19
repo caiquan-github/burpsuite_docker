@@ -13,7 +13,8 @@ Burp Suite(docker iamge)  config addres is :
 
 Prepare an x11 server <DISPLAY> in x11 ip adders（Xmanager - Passive tool）
 
-docker run -di --name burp-gui -e JAVA_OPTS='-Xmx2g ' -e DISPLAY=127.0.0.1:0.0  caiquan/burp-gui
+`docker run -di --name burp-gui -e JAVA_OPTS='-Xmx2g ' -e DISPLAY=127.0.0.1:0.0  caiquan/burp-gui`
+
 
 # NO GUI
 
